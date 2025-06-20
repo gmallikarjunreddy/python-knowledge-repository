@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# python-knowledge-repository
-# python-knowledge-repository
-=======
+
 # Python: Beginner to Advanced 🐍
 
 Welcome to my Python learning journey!  
